@@ -1,2 +1,2 @@
 # Portfolio
-A Compilation of all of my Projects that I considered "Finished" using different kinds of languages.
+A Compilation of all of my Web Projects that I considered "Finished" using different kinds of languages.
